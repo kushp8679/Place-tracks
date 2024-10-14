@@ -3,7 +3,7 @@
 Technologies Used-
 1.HTML, CSS, JavaScript
 2.Node.js ,Express js
-3.MongoDB/SQL (mention if you have a database)
+3.MongoDB
 
 
 
