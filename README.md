@@ -15,3 +15,9 @@ Features-
 3.User Reviews: Read and add reviews for different places.
 4.Commenting System: Comment and discuss with other users about tourist spots.
 5.User-Friendly Interface: Simple and clean interface for ease of 
+
+
+
+Search functionality: Allow users to search for places by name or location.
+Authentication: Implement user accounts for better review tracking.
+Image Gallery: Add an image gallery for each tourist spot.
